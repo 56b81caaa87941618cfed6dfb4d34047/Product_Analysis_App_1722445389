@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new product information",
     "creation_time": "2024-07-31 22:33:09.150777",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image showcases a surreal landscape with a vibrant color scheme of pinks and purples, featuring a large planet, mountains, and reflective water, creating a cosmic and otherworldly atmosphere."
 }
